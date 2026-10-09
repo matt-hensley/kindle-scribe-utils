@@ -1,0 +1,7 @@
+# Nothing here is generated or secret, but keep the usual noise out.
+*.swp
+*~
+.DS_Store
+
+# Local scratch
+*.log
